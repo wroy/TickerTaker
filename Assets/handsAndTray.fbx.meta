@@ -1,0 +1,72 @@
+fileFormatVersion: 2
+guid: f0aeacded4220394ea9a53b1af69d9b7
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Tray_Mesh
+    100002: //RootNode
+    100004: Hands_Mesh
+    400000: Tray_Mesh
+    400002: //RootNode
+    400004: Hands_Mesh
+    2300000: Tray_Mesh
+    2300002: Hands_Mesh
+    3300000: Tray_Mesh
+    3300002: Hands_Mesh
+    4300000: Tray_Mesh
+    4300002: Hands_Mesh
+    6400000: Hands_Mesh
+    6400002: Tray_Mesh
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0299999993
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 
